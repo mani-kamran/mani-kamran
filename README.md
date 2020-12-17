@@ -31,7 +31,16 @@
 
 <br>
 <br>
+### 🤖 My planning for the future ...
+<br>
+<br>
+<br>
 
+- ☝️ Learning C,Network+,PWK,ruby,HTML,JS,SQL & ...
+- 👊 My best <p><b><a href="https://github.com/ManiFsociety/shabbir">project on GitHub</a> !</b></p> I am planning to make a graphic version of it and I will soon share fox language projects
+
+<br>
+<br>
 <hr>
 
 ### My Top Lang ?
