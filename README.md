@@ -8,8 +8,8 @@
 <br>
 
 - 💻 Python and C Developer .
-- :octocat: (Open Source Rights Pro)
--</a>Best Project on github is <b><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a> 💖</b>
+- :octocat: Open Source Rights Pro
+- </a>The most popular GitHub project (in my opinion) <b><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a> 💖</b>
 
 <br>
 <br>
