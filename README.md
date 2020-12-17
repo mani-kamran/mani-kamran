@@ -17,7 +17,7 @@
 <hr>
 
 ### What I know ?
-<p align="left"><img src="https://d2.alternativeto.net/dist/icons/c-programming-language-_102081.png?width=128&height=128&mode=crop&upscale=false" alt="C" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<p align="left"><img src="https://d2.alternativeto.net/dist/icons/c-programming-language-_102081.png?width=128&height=128&mode=crop&upscale=false" alt="C" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://w7.pngwing.com/pngs/221/720/png-transparent-python-logo-c-programming-angle-text-hand-thumbnail.png" alt="python" width="40" height="40"/></p>
 
 <hr>
 
