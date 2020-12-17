@@ -37,7 +37,7 @@
 <br>
 
 - ☝️ Learning C , Network+ , PWK , ruby , HTML , JS , SQL & ...
-- 👊 My best <a href="https://github.com/ManiFsociety/shabbir">project on GitHub</a> I am planning to make a graphic version of it and I will soon share fox language projects
+- 👊 My best <a href="https://github.com/ManiFsociety/shabbir">project on GitHub</a> I am planning to make a graphic version of it and I will soon share C language projects
 
 <br>
 <br>
