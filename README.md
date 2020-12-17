@@ -1,15 +1,15 @@
 <h1>Hi there 👋 !</h1>
 <h3>I’m Mani , Hacking and Programming lover !</h3>
 
-<img align="left" src="https://github.com/ManiFsociety/ManiFsociety/blob/main/Dev.png" width="25%"/>
+<img align="left" src="https://raw.githubusercontent.com/ManiFsociety/ManiFsociety/master/Dev.png" width="25%"/>
 
 <br>
 <br>
 <br>
 
 - 💻 Python and C Developer .
-- :octocat: Open Source Rights Pro
-</a>Best Project on github is <b><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a> 💖</b>
+- :octocat: (Open Source Rights Pro)
+-</a>Best Project on github is <b><a href="https://github.com/bitcoin/bitcoin">Bitcoin</a> 💖</b>
 
 <br>
 <br>
