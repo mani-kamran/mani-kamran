@@ -21,8 +21,16 @@
 
 <hr>
 
-### My Stats ?
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ManiFsociety_icons=true)](https://github.com/ManiFsociety)
+### I love Hacking ...
+<br>
+<br>
+<br>
+
+- 💻 Hacking does not mean evil or theft, but it is a very important science that is being used destructively today
+- :octocat: I have completed the ژٍآ round and I am looking to learn PWK,Network,C programmong, and ...
+
+<br>
+<br>
 
 <hr>
 
