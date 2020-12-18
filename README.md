@@ -66,5 +66,5 @@
 
 
 ### Follow GifHub on Telegram !
-<p>Join to <b>GitHub</b> for having too many Gifs !</p>
-<p><b><a href="https://t.me/Hide44">GitHub</a> !</b></p>
+<p>Send your messages to <b>@Hide44</b>
+<p><b><a href="https://t.me/Hide44">@Hide44</a> !</b></p>
