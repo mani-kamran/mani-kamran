@@ -1,7 +1,7 @@
 <h1>Hi there 👋 !</h1>
 <h3>I’m Mani , Hacking and Programming lover !</h3>
 
-<img align="left" src="https://github.com/ManiFsociety/ManiFsociety/blob/master/DEV.png" width="25%"/>
+<img align="left" src="https://github.com/ManiFsociety/ManiFsociety/blob/master/Dev.png" width="25%"/>
 
 <br>
 <br>
