@@ -66,5 +66,5 @@
 
 
 ### Follow GifHub on Telegram !
-<p>Send your messages to <b>@Hide44</b>
-<p><b><a href="https://t.me/Hide44">@Hide44</a> !</b></p>
+<p>Send your messages to <b>@Hide33</b>
+<p><b><a href="https://t.me/Hide33">@Hide33</a> !</b></p>
