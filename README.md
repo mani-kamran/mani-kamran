@@ -20,6 +20,12 @@
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" alt="C" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Other-linux-logo.svg" alt="linux" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </p><img src="https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logonetworkplus.svg" alt="network+" width="40" height="40"/>
 
 <hr>
+<hr>
+
+### My Stats ?
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
+
+<hr>
 
 ### I love Hacking ...
 <br>
