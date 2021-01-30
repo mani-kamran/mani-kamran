@@ -50,10 +50,6 @@
 <br>
 <hr>
 
-### My Top Lang ?
-
-<p>Well , Here are top langs I used in my projects !</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiFsociety&layout=compact)](https://github.com/ManiFsociety)
 
 <hr>
