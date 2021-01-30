@@ -63,7 +63,7 @@
 <p><b>Email :</b></p>
 
 - 📫 How to reach me !?
-- Email is the best way , my email address : fsocietyjocker2@gmail.com
+- My email address : fsocietyjocker2@gmail.com
 
 <hr>
 
