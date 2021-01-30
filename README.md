@@ -59,9 +59,6 @@
 <hr>
 
 ### Find me ?
-<p><b>Social medias :</b></p>
-
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ManiFsociety)
 
 <p><b>Email :</b></p>
 
