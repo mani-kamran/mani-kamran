@@ -23,7 +23,7 @@
 <hr>
 
 ### My Stats ?
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ManiFsociety&show_icons=true)](https://github.com/BlackIQ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ManiFsociety&show_icons=true)](https://github.com/manifsociety)
 
 <hr>
 
