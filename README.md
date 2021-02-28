@@ -38,16 +38,7 @@
 <br>
 <br>
 
-### 🤖 My planning for the future ...
-<br>
-<br>
-<br>
 
-- ☝️ Learning C , Network+ , PWK , ruby , HTML , JS , SQL & ...
-- 👊 My best <a href="https://github.com/ManiFsociety/shabbir">project on GitHub</a> I am planning to make a graphic version of it and I will soon share C language projects
-
-<br>
-<br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiFsociety&layout=compact)](https://github.com/ManiFsociety)
