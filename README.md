@@ -59,6 +59,6 @@
 <p><b>Email :</b></p>
 
 - 📫 How to reach me !?
-- My email address : fsocietyjocker2@gmail.com
+- My email address : m4nikamran@gmail.com
 
 <hr>
