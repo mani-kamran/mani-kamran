@@ -35,9 +35,6 @@
 - 💻 Hacking does not mean evil or theft, but it is a very important science that is being used destructively today
 - :octocat: I have completed the CEH round and I am looking to learn PWK,Network,C programmong, and ...
 
-<br>
-<br>
-
 
 <hr>
 
