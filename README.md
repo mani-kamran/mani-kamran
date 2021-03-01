@@ -1,7 +1,7 @@
 <h1>Hi there 👋 !</h1>
 <h3>I’m Mani , Hacking and Programming lover !</h3>
 
-<img align="left" src="https://github.com/ManiFsociety/ManiFsociety/blob/master/Dev.png" width="25%"/>
+<img align="left" src="https://github.com/mani-kamran/mani-kamran/blob/master/Dev.png" width="25%"/>
 
 <br>
 <br>
@@ -22,7 +22,7 @@
 <hr>
 
 ### My Stats ?
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ManiFsociety&show_icons=true)](https://github.com/manifsociety)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=mani-kamran&show_icons=true)](https://github.com/mani-kamrany)
 
 <hr>
 
@@ -37,7 +37,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiFsociety&layout=compact)](https://github.com/ManiFsociety)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mani-kamran&layout=compact)](https://github.com/mani-kamran)
 
 <hr>
 
